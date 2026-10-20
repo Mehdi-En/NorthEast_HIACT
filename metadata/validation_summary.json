@@ -1,0 +1,13 @@
+{
+  "source_workbook_sha256": "f9f26000bf688e1144a4b3b75a5240fcd23b91c697606cc887cee346ebe15701",
+  "geography_authorities": 16,
+  "annual_local_authority_records": 1280,
+  "annual_area_records": 160,
+  "fuel_records_2024": 96,
+  "fictional_examples": 8,
+  "fictional_parameter_records": 23,
+  "all_year_authority_coverage": "16 unique authorities in every year 2005\u20132024",
+  "fuel_reconciliation_max_absolute_difference_ktoe": 3.936060466003255e-06,
+  "raw_workbook_modified": false,
+  "frozen_paper_results_reproduced": false
+}

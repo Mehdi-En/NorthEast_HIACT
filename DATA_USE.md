@@ -13,7 +13,7 @@ The deposited workbook was retrieved from DESNZ on 20 October 2026. Its identity
 - `2005` through `2024`: annual tables; column headers are in row 6 and records start in row 7.
 - Columns A–D identify geography and notes; E–AJ contain energy consumption measures.
 
-Select North East and Yorkshire and The Humber records as appropriate for your own geographic question. Yorkshire and The Humber is broader than the Humber subregion. A regional total therefore must not be labelled a Humber-only total. A precise study boundary requires an explicit local authority membership list, which is not supplied here.
+Select North East and Yorkshire and The Humber records as appropriate for your own geographic question. Yorkshire and The Humber is broader than the Humber subregion. A regional total therefore must not be labelled a Humber-only total. The supplied `data/derived/study_geography.csv` defines the 16-authority study boundary used in the supporting CSV summaries.
 
 ## Units example
 
@@ -34,3 +34,11 @@ Read the original Notes for missing or qualified entries; do not replace blanks 
 ## What users can do
 
 Inspect historical fuel mix, compare regional trends, explore local authority energy consumption, and construct their own explicitly documented analyses. This repository supplies no future hydrogen scenario, site commissioning schedule, economic threshold or model implementation.
+
+## Using the added summaries
+
+Use the local authority series for comparisons over time, and the area series for the sum over each fixed study boundary. `all_fuels_total` includes domestic, transport and industrial/commercial/other use. The 2024 fuel table also covers all sectors. These measures cannot be substituted for industrial hydrogen demand. See `SYNTHESIS.md` for source columns and aggregation rules.
+
+## Using fictional examples
+
+Use `data/synthetic/illustrative_process_parameters.csv` to inspect how a process parameter can be recorded with a unit, time, pathway and energy basis. Every record is fictional. Source-example filenames indicate provenance from example fixtures, not external evidence. Several cases are intentionally incomplete and cannot be used to reconstruct a complete model.
