@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!DATA_USE.md
+!DATA_LICENCE.md
+!metadata/
+!metadata/dataset_inventory.csv
+!metadata/data_dictionary.csv
+!metadata/checksums.sha256
+!data/
+!data/raw/
+!data/raw/Subnational_total_final_consumption_2005_2024.xlsx

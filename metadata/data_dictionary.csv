@@ -1,0 +1,95 @@
+dataset_id,sheet_scope,column,publisher_header,unit,interpretation
+DESNZ-TFEC-2024,2024,A,Code,text,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,B,Country or region,text,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,C,Local authority,text,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,D,Notes,text,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,E,"All fuels: 
+Domestic",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,F,"All fuels:
+Transport
+[Note 1]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,G,"All fuels:
+Industrial,
+Commercial
+and other",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,H,"All fuels:
+Total",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,I,"Coal:
+Industrial
+[Note 2]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,J,"Coal:
+Commercial",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,K,"Coal:
+Domestic",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,L,"Coal:
+Rail",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,M,"Coal:
+Public 
+sector",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,N,"Coal:
+Agriculture",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,O,"Coal:
+Total
+[Note 2]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,P,"Manufactured fuels:
+Industrial
+[Note 3]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,Q,"Manufactured
+fuels:
+Domestic
+[Note 3]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,R,"Manufactured
+fuels:
+Total
+[Note 3]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,S,"Petroleum:
+Industrial
+[Note 2]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,T,"Petroleum: 
+Commercial",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,U,"Petroleum:
+Domestic",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,V,"Petroleum:
+Road transport
+[Note 4]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,W,"Petroleum:
+Rail",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,X,"Petroleum:
+Public sector",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,Y,"Petroleum:
+Agriculture",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,Z,"Petroleum:
+Total
+[Notes 2, 4]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AA,"Gas:
+Domestic",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AB,"Gas:
+Industrial,
+Commercial
+and other",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AC,"Gas:
+Total",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AD,"Electricity:
+Domestic",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AE,"Electricity:
+Industrial,
+Commercial
+and other",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AF,"Electricity:
+Total",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AG,"Bioenergy 
+and wastes:
+Domestic
+",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AH,"Bioenergy
+ and wastes:
+Road transport
+[Note 4]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AI,"Bioenergy 
+and wastes:
+Industrial and
+Commercial",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
+DESNZ-TFEC-2024,2024,AJ,"Bioenergy 
+and wastes:
+Total
+[Note 4]",ktoe,Original publisher header; see workbook Notes. Headers in other year sheets should be checked before comparison.
