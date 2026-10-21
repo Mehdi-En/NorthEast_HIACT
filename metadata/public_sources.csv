@@ -1,0 +1,7 @@
+dataset_id,title,url,availability
+RESP-D021,NAEI point-source data,https://naei.energysecurity.gov.uk/greenhouse-gases/greenhouse-gas-emissions-data,publisher_link_only
+RESP-D022,DESNZ regional/local gas statistics,https://www.gov.uk/government/statistics/regional-and-local-authority-gas-consumption-statistics,2024_study_extract_deposited
+RESP-D023,DESNZ residual fuels 2005–2023,https://www.gov.uk/government/statistics/uk-residual-fuel-consumption-at-regional-and-local-authority-level-2005-to-2023,original_workbook_deposited
+RESP-D024,ONS open geography,https://geoportal.statistics.gov.uk/,December_2024_study_subset_deposited
+RESP-D027,DESNZ ECUK 2025,https://www.gov.uk/government/statistics/energy-consumption-in-the-uk-2025,publisher_link_only
+RESP-D032,NESO Future Energy Scenarios,https://www.neso.energy/publications/future-energy-scenarios-fes,publisher_link_only

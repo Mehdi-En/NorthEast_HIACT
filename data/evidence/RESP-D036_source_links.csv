@@ -1,0 +1,4 @@
+source_id,dataset_name,publisher,publication_year,url,date_accessed,licence,page_or_table_reference,evidence_status
+SRC-HHP-001,Humber Hydrogen Pipeline,Equinor,2026,https://www.equinor.com/news/uk/h2heasingtonhumberhydrogenhublaunch,2026-09-16,TBD,project announcement,conditional_project
+SRC-PU-EC-001,Project Union East Coast,National Gas,2026,https://www.nationalgas.com/future-energy/project-union-east-coast,2026-09-16,TBD,current project page,validation_only
+SRC-HHP-002,Humber Hydrogen Pipeline project website,Humber Hydrogen Transmission System Ltd,2026,https://www.humberhydrogenpipeline.com/,2026-09-16,TBD,current project page,planning_context_only

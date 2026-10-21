@@ -42,3 +42,7 @@ Use the local authority series for comparisons over time, and the area series fo
 ## Using fictional examples
 
 Use `data/synthetic/illustrative_process_parameters.csv` to inspect how a process parameter can be recorded with a unit, time, pathway and energy basis. Every record is fictional. Source-example filenames indicate provenance from example fixtures, not external evidence. Several cases are intentionally incomplete and cannot be used to reconstruct a complete model.
+
+## Additional public sources
+
+The 2024 gas extract retains the public DESNZ records for the 16 listed authorities. Its consumption columns are GWh/year; multiply by 1,000 for MWh/year. Non-domestic consumption is broader than industry. The residual-fuel workbook retains its original 2005–2023 edition and source notes. The ONS GeoJSON contains 16 December 2024 LAD features with original geometry and EPSG:4326 coordinates. No site-to-bus spatial join is supplied. Publisher-reference access dates are historical and do not assert current project status.

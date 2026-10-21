@@ -1,0 +1,9 @@
+year,study_area,measure,authority_count,energy_ktoe,energy_gwh,aggregation,source_sheet
+2024,humber,all_fuels_domestic,4,543.6860472030405,6323.068728971361,sum_of_listed_local_authorities,2024
+2024,humber,all_fuels_industrial_commercial_and_other,4,2076.9773331294678,24155.24638429571,sum_of_listed_local_authorities,2024
+2024,humber,all_fuels_total,4,3219.433996969275,37442.017384752675,sum_of_listed_local_authorities,2024
+2024,humber,all_fuels_transport,4,598.7706166367697,6963.702271485631,sum_of_listed_local_authorities,2024
+2024,north_east,all_fuels_domestic,12,1581.438330645377,18392.127785405733,sum_of_listed_local_authorities,2024
+2024,north_east,all_fuels_industrial_commercial_and_other,12,1503.6548475502152,17487.505877009004,sum_of_listed_local_authorities,2024
+2024,north_east,all_fuels_total,12,4540.182805720063,52802.32603052433,sum_of_listed_local_authorities,2024
+2024,north_east,all_fuels_transport,12,1455.0896275244706,16922.692368109594,sum_of_listed_local_authorities,2024

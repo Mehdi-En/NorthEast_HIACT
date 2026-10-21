@@ -15,3 +15,11 @@ The OGL applies subject to its stated exclusions and any third-party rights.
 ## Author-created material
 
 The study-area classification, fictional parameter examples and repository documentation are shared for reuse with attribution to Mehdi Chtiar, Northeast_HIACT, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Identify changes when adapting them. This grant does not replace the DESNZ licence or cover excluded third-party material. Fictional examples are not engineering recommendations or evidence about actual sites.
+
+## Additional public statistics and boundaries
+
+The DESNZ gas extract and residual-fuel workbook retain Crown copyright and Open Government Licence attribution to DESNZ.
+
+ONS boundary subset: Source: Office for National Statistics licensed under the Open Government Licence v.3.0. Contains OS data © Crown copyright and database right 2024. See https://www.ons.gov.uk/methodology/geography/licences .
+
+Publisher source links and citation metadata do not grant rights over original documents. No publisher PDFs or archived websites are mirrored.
